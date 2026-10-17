@@ -51,7 +51,7 @@
     "react-native-webview": "13.13.5"
   },
   "devDependencies": {
-    "compression": "^1.8.0",
+    "compression": "^1.8.2",
     "esbuild": "^0.25.8",
     "express": "^5.1.0",
     "morgan": "^1.10.0",
